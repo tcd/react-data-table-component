@@ -235,7 +235,7 @@ exports[`DataTable::Header header should not display with no title 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -254,7 +254,7 @@ exports[`DataTable::Header header should not display with no title 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -1375,7 +1375,7 @@ exports[`DataTable::Header should render without a header if noHeader is true 1`
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -1394,7 +1394,7 @@ exports[`DataTable::Header should render without a header if noHeader is true 1`
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -1945,7 +1945,7 @@ exports[`DataTable::Pagination should change the page position when using pagina
               data-column-id="1"
               data-tag="allowRowEvents"
               id="cell-1-1"
-              role="gridcell"
+              role="cell"
             >
               <div
                 data-tag="allowRowEvents"
@@ -2354,7 +2354,7 @@ exports[`DataTable::Pagination should have the correct amount of rows when pagin
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -2608,7 +2608,7 @@ exports[`DataTable::Pagination should have the correct amount of rows when pagin
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -2862,7 +2862,7 @@ exports[`DataTable::Pagination should have the correct amount of rows when pagin
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -3116,7 +3116,7 @@ exports[`DataTable::Pagination should have the correct amount of rows when pagin
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -3671,7 +3671,7 @@ exports[`DataTable::Pagination should navigate to page 1 if the table is sorted 
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -3925,7 +3925,7 @@ exports[`DataTable::Pagination should recalculate pagination position if there i
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -4179,7 +4179,7 @@ exports[`DataTable::Pagination should render correctly if pagination is enabled 
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -4198,7 +4198,7 @@ exports[`DataTable::Pagination should render correctly if pagination is enabled 
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -4452,7 +4452,7 @@ exports[`DataTable::Pagination should render correctly when a paginationComponen
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -4471,7 +4471,7 @@ exports[`DataTable::Pagination should render correctly when a paginationComponen
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -4725,7 +4725,7 @@ exports[`DataTable::Pagination should render correctly when a paginationComponen
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -4744,7 +4744,7 @@ exports[`DataTable::Pagination should render correctly when a paginationComponen
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -4998,7 +4998,7 @@ exports[`DataTable::Pagination should render correctly when a paginationComponen
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -5017,7 +5017,7 @@ exports[`DataTable::Pagination should render correctly when a paginationComponen
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -5271,7 +5271,7 @@ exports[`DataTable::Pagination should render correctly when a paginationComponen
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -5290,7 +5290,7 @@ exports[`DataTable::Pagination should render correctly when a paginationComponen
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -5798,7 +5798,7 @@ exports[`DataTable::Pagination should render correctly when paginationResetDefau
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -6048,7 +6048,7 @@ exports[`DataTable::Theming should render correctly when a custom style is appli
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -6067,7 +6067,7 @@ exports[`DataTable::Theming should render correctly when a custom style is appli
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -6321,7 +6321,7 @@ exports[`DataTable::column.style should render correctly when a style is set on 
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -6340,7 +6340,7 @@ exports[`DataTable::column.style should render correctly when a style is set on 
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -6594,7 +6594,7 @@ exports[`DataTable::columns should render correctly if column.center 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -6613,7 +6613,7 @@ exports[`DataTable::columns should render correctly if column.center 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -6869,7 +6869,7 @@ exports[`DataTable::columns should render correctly if column.hide is an integer
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -6888,7 +6888,7 @@ exports[`DataTable::columns should render correctly if column.hide is an integer
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -7144,7 +7144,7 @@ exports[`DataTable::columns should render correctly if column.hide lg 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -7163,7 +7163,7 @@ exports[`DataTable::columns should render correctly if column.hide lg 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -7419,7 +7419,7 @@ exports[`DataTable::columns should render correctly if column.hide md 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -7438,7 +7438,7 @@ exports[`DataTable::columns should render correctly if column.hide md 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -7694,7 +7694,7 @@ exports[`DataTable::columns should render correctly if column.hide sm 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -7713,7 +7713,7 @@ exports[`DataTable::columns should render correctly if column.hide sm 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -7963,7 +7963,7 @@ exports[`DataTable::columns should render correctly if column.maxWidth 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -7982,7 +7982,7 @@ exports[`DataTable::columns should render correctly if column.maxWidth 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -8232,7 +8232,7 @@ exports[`DataTable::columns should render correctly if column.minWidth 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -8251,7 +8251,7 @@ exports[`DataTable::columns should render correctly if column.minWidth 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -8501,7 +8501,7 @@ exports[`DataTable::columns should render correctly if column.omit is true 1`] =
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -8520,7 +8520,7 @@ exports[`DataTable::columns should render correctly if column.omit is true 1`] =
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -8774,7 +8774,7 @@ exports[`DataTable::columns should render correctly if column.right 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -8793,7 +8793,7 @@ exports[`DataTable::columns should render correctly if column.right 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -9046,7 +9046,7 @@ exports[`DataTable::columns should render correctly if column.width 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
             width="200px"
           >
             <div
@@ -9066,7 +9066,7 @@ exports[`DataTable::columns should render correctly if column.width 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
             width="200px"
           >
             <div
@@ -9317,7 +9317,7 @@ exports[`DataTable::columns should render correctly when column.allowOverflow = 
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -9336,7 +9336,7 @@ exports[`DataTable::columns should render correctly when column.allowOverflow = 
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -9594,7 +9594,7 @@ exports[`DataTable::columns should render correctly when column.button = true 1`
             class="c12 c6 c13 rdt_TableCell"
             data-column-id="1"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div>
               Apple
@@ -9610,7 +9610,7 @@ exports[`DataTable::columns should render correctly when column.button = true 1`
             class="c12 c6 c13 rdt_TableCell"
             data-column-id="1"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div>
               Zuchinni
@@ -9852,7 +9852,7 @@ exports[`DataTable::columns should render correctly when column.cell is set to a
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div>
               Apple
@@ -9869,7 +9869,7 @@ exports[`DataTable::columns should render correctly when column.cell is set to a
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div>
               Zuchinni
@@ -10118,7 +10118,7 @@ exports[`DataTable::columns should render correctly when column.compact = true 1
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -10137,7 +10137,7 @@ exports[`DataTable::columns should render correctly when column.compact = true 1
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -10446,7 +10446,7 @@ exports[`DataTable::columns should render correctly when column.sortable = true 
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -10465,7 +10465,7 @@ exports[`DataTable::columns should render correctly when column.sortable = true 
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -10715,7 +10715,7 @@ exports[`DataTable::columns should render correctly when column.wrap = true 1`] 
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -10734,7 +10734,7 @@ exports[`DataTable::columns should render correctly when column.wrap = true 1`] 
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -10983,7 +10983,7 @@ exports[`DataTable::columns should render correctly when ignoreRowClick = true 1
             class="c11 c6 c12 rdt_TableCell"
             data-column-id="1"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div>
               Apple
@@ -10999,7 +10999,7 @@ exports[`DataTable::columns should render correctly when ignoreRowClick = true 1
             class="c11 c6 c12 rdt_TableCell"
             data-column-id="1"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div>
               Zuchinni
@@ -11247,7 +11247,7 @@ exports[`DataTable::columns should render correctly with columns/data 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -11266,7 +11266,7 @@ exports[`DataTable::columns should render correctly with columns/data 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -11516,7 +11516,7 @@ exports[`DataTable::conditionalCellStyles should render correctly when condition
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
             style="background-color: rgba(63, 195, 128, 0.9);"
           >
             <div
@@ -11536,7 +11536,7 @@ exports[`DataTable::conditionalCellStyles should render correctly when condition
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -11786,7 +11786,7 @@ exports[`DataTable::conditionalCellStyles should render correctly when condition
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -11805,7 +11805,7 @@ exports[`DataTable::conditionalCellStyles should render correctly when condition
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -12055,7 +12055,7 @@ exports[`DataTable::conditionalCellStyles should render correctly when condition
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
             style="color: pink;"
           >
             <div
@@ -12075,7 +12075,7 @@ exports[`DataTable::conditionalCellStyles should render correctly when condition
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -12325,7 +12325,7 @@ exports[`DataTable::conditionalCellStyles should render correctly when condition
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -12344,7 +12344,7 @@ exports[`DataTable::conditionalCellStyles should render correctly when condition
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -12594,7 +12594,7 @@ exports[`DataTable::conditionalRowStyles should render correctly when conditiona
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -12613,7 +12613,7 @@ exports[`DataTable::conditionalRowStyles should render correctly when conditiona
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -12864,7 +12864,7 @@ exports[`DataTable::conditionalRowStyles should render correctly when conditiona
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -12883,7 +12883,7 @@ exports[`DataTable::conditionalRowStyles should render correctly when conditiona
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -13133,7 +13133,7 @@ exports[`DataTable::conditionalRowStyles should render correctly when conditiona
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -13152,7 +13152,7 @@ exports[`DataTable::conditionalRowStyles should render correctly when conditiona
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -13404,7 +13404,7 @@ exports[`DataTable::dense should render correctly when dense 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -13423,7 +13423,7 @@ exports[`DataTable::dense should render correctly when dense 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -13677,7 +13677,7 @@ exports[`DataTable::direction should render correctly when direction is auto 1`]
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -13696,7 +13696,7 @@ exports[`DataTable::direction should render correctly when direction is auto 1`]
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -13951,7 +13951,7 @@ exports[`DataTable::direction should render correctly when direction is ltr 1`] 
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -13970,7 +13970,7 @@ exports[`DataTable::direction should render correctly when direction is ltr 1`] 
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -14225,7 +14225,7 @@ exports[`DataTable::direction should render correctly when direction is rtl 1`] 
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -14244,7 +14244,7 @@ exports[`DataTable::direction should render correctly when direction is rtl 1`] 
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -14590,7 +14590,7 @@ exports[`DataTable::direction should render correctly when direction is rtl when
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -14619,7 +14619,7 @@ exports[`DataTable::direction should render correctly when direction is rtl when
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -14993,7 +14993,7 @@ exports[`DataTable::expandableRows should expand a row if expandableRows is true
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -15051,7 +15051,7 @@ exports[`DataTable::expandableRows should expand a row if expandableRows is true
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -15425,7 +15425,7 @@ exports[`DataTable::expandableRows should expand a row if expandableRows is true
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -15483,7 +15483,7 @@ exports[`DataTable::expandableRows should expand a row if expandableRows is true
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -15878,7 +15878,7 @@ exports[`DataTable::expandableRows should not expand a row if the expander row i
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -15925,7 +15925,7 @@ exports[`DataTable::expandableRows should not expand a row if the expander row i
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -16175,7 +16175,7 @@ exports[`DataTable::expandableRows should not render expandableRows expandableRo
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -16194,7 +16194,7 @@ exports[`DataTable::expandableRows should not render expandableRows expandableRo
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -16539,7 +16539,7 @@ exports[`DataTable::expandableRows should render correctly when expandableRowExp
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -16568,7 +16568,7 @@ exports[`DataTable::expandableRows should render correctly when expandableRowExp
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -16938,7 +16938,7 @@ exports[`DataTable::expandableRows should render correctly when expandableRowExp
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -16996,7 +16996,7 @@ exports[`DataTable::expandableRows should render correctly when expandableRowExp
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -17359,7 +17359,7 @@ exports[`DataTable::expandableRows should render correctly when expandableRows i
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -17406,7 +17406,7 @@ exports[`DataTable::expandableRows should render correctly when expandableRows i
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -17776,7 +17776,7 @@ exports[`DataTable::expandableRows should render correctly when expandableRows i
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -17834,7 +17834,7 @@ exports[`DataTable::expandableRows should render correctly when expandableRows i
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -18084,7 +18084,7 @@ exports[`DataTable::expandableRows should render correctly when expandableRowsHi
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -18103,7 +18103,7 @@ exports[`DataTable::expandableRows should render correctly when expandableRowsHi
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -18360,7 +18360,7 @@ exports[`DataTable::fixedHeader should render correctly when fixedHeader 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -18379,7 +18379,7 @@ exports[`DataTable::fixedHeader should render correctly when fixedHeader 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -18636,7 +18636,7 @@ exports[`DataTable::fixedHeader should render correctly when fixedHeader and fix
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -18655,7 +18655,7 @@ exports[`DataTable::fixedHeader should render correctly when fixedHeader and fix
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -18918,7 +18918,7 @@ exports[`DataTable::highlightOnHover should render correctly when highlightOnHov
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -18937,7 +18937,7 @@ exports[`DataTable::highlightOnHover should render correctly when highlightOnHov
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -19191,7 +19191,7 @@ exports[`DataTable::pointerOnHover should render correctly when pointerOnHover 1
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -19210,7 +19210,7 @@ exports[`DataTable::pointerOnHover should render correctly when pointerOnHover 1
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -20504,7 +20504,7 @@ exports[`DataTable::responsive should render correctly responsive by default 1`]
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -20523,7 +20523,7 @@ exports[`DataTable::responsive should render correctly responsive by default 1`]
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -20770,7 +20770,7 @@ exports[`DataTable::responsive should render correctly when responsive=false 1`]
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -20789,7 +20789,7 @@ exports[`DataTable::responsive should render correctly when responsive=false 1`]
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -21091,7 +21091,7 @@ exports[`DataTable::selectableRows should not render a select all checkbox when 
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -21120,7 +21120,7 @@ exports[`DataTable::selectableRows should not render a select all checkbox when 
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -21465,7 +21465,7 @@ exports[`DataTable::selectableRows should render correctly when selectableRows i
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -21494,7 +21494,7 @@ exports[`DataTable::selectableRows should render correctly when selectableRows i
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -21872,7 +21872,7 @@ exports[`DataTable::selectableRows should render correctly when selectableRowsHi
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -21901,7 +21901,7 @@ exports[`DataTable::selectableRows should render correctly when selectableRowsHi
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -22198,7 +22198,7 @@ exports[`DataTable::sorting a custom column sorting function is used 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -22217,7 +22217,7 @@ exports[`DataTable::sorting a custom column sorting function is used 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -22514,7 +22514,7 @@ exports[`DataTable::sorting should render correctly and bypass internal sort whe
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -22533,7 +22533,7 @@ exports[`DataTable::sorting should render correctly and bypass internal sort whe
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -22830,7 +22830,7 @@ exports[`DataTable::sorting should render correctly and bypass internal sort whe
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -22849,7 +22849,7 @@ exports[`DataTable::sorting should render correctly and bypass internal sort whe
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -23099,7 +23099,7 @@ exports[`DataTable::sorting should render correctly and not be sorted when a col
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -23118,7 +23118,7 @@ exports[`DataTable::sorting should render correctly and not be sorted when a col
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -23415,7 +23415,7 @@ exports[`DataTable::sorting should render correctly when a column is sorted from
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -23434,7 +23434,7 @@ exports[`DataTable::sorting should render correctly when a column is sorted from
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -23731,7 +23731,7 @@ exports[`DataTable::sorting should render correctly when a column is sorted in d
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -23750,7 +23750,7 @@ exports[`DataTable::sorting should render correctly when a column is sorted in d
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -24048,7 +24048,7 @@ exports[`DataTable::sorting should render correctly with a custom sortIcon 1`] =
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -24067,7 +24067,7 @@ exports[`DataTable::sorting should render correctly with a custom sortIcon 1`] =
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -24369,7 +24369,7 @@ exports[`DataTable::sorting should render correctly with a custom sortIcon and c
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -24388,7 +24388,7 @@ exports[`DataTable::sorting should render correctly with a custom sortIcon and c
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -24701,7 +24701,7 @@ exports[`DataTable::sorting should render correctly with a default sort field an
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -24720,7 +24720,7 @@ exports[`DataTable::sorting should render correctly with a default sort field an
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -25029,7 +25029,7 @@ exports[`DataTable::sorting should render correctly with a default sort field an
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -25048,7 +25048,7 @@ exports[`DataTable::sorting should render correctly with a default sort field an
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -25360,7 +25360,7 @@ exports[`DataTable::sorting should render correctly with a defaultSortAsc = fals
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -25379,7 +25379,7 @@ exports[`DataTable::sorting should render correctly with a defaultSortAsc = fals
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -25679,7 +25679,7 @@ exports[`DataTable::sorting should sort if the column is selected and the Enter 
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -25698,7 +25698,7 @@ exports[`DataTable::sorting should sort if the column is selected and the Enter 
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -25977,7 +25977,7 @@ exports[`DataTable::striped should render correctly when striped 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -25996,7 +25996,7 @@ exports[`DataTable::striped should render correctly when striped 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -26421,7 +26421,7 @@ exports[`data prop changes should update state if the data prop changes 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -26568,7 +26568,7 @@ exports[`should not show the TableHead when noTableHead is true 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -26587,7 +26587,7 @@ exports[`should not show the TableHead when noTableHead is true 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -27041,7 +27041,7 @@ exports[`should render correctly when conditionalRowStyles is used with an expan
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -27099,7 +27099,7 @@ exports[`should render correctly when conditionalRowStyles is used with an expan
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -27469,7 +27469,7 @@ exports[`should render correctly when conditionalRowStyles is used with an expan
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -27527,7 +27527,7 @@ exports[`should render correctly when conditionalRowStyles is used with an expan
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -27777,7 +27777,7 @@ exports[`should render correctly when conditionalRowStyles with classNames is us
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -27796,7 +27796,7 @@ exports[`should render correctly when conditionalRowStyles with classNames is us
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -28049,7 +28049,7 @@ exports[`should render correctly when disabled 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -28068,7 +28068,7 @@ exports[`should render correctly when disabled 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-2"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -28318,7 +28318,7 @@ exports[`should render the correctly when using selector function 1`] = `
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
@@ -28568,7 +28568,7 @@ exports[`should render the correctly when using selector function and a format f
             data-column-id="1"
             data-tag="allowRowEvents"
             id="cell-1-1"
-            role="gridcell"
+            role="cell"
           >
             <div
               data-tag="allowRowEvents"
